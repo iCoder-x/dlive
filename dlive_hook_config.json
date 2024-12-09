@@ -1,0 +1,11 @@
+{
+  "requests": [
+    {
+      "name": "getSubGuide",
+      "version": "1.17.69",
+      "action": "intercept",
+      "env": "stg"
+    }
+  ],
+  "pages": []
+}
